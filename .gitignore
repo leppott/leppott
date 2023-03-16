@@ -39,3 +39,4 @@ vignettes/*.pdf
 .Renviron
 *.html
 *.Rproj
+notes.txt
